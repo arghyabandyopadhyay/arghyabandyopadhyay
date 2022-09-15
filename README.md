@@ -27,7 +27,7 @@ that all the codes written by me shouldn’t be rewritten.</p>
       <li> :desktop_computer: 3+ years of experience as a <strong>Backend Developer</strong> in Java.</li>
       <li> 👀 Interested in Theoretical Computer Science, Game Theory </li>
       <li> 💞️ Looking to collaborate on Flutter, JavaFx and Game Theory Projects </li>
-      <li> :technologist: My latest <strong>Resume</strong> in <a href="https://github.com/arghyabandyopadhyay/arghyabandyopadhyay/raw/main/assets/resume2022.pdf">Here</a>.</li>
+      <li> :technologist: My latest <strong>Resume</strong> in <a href="https://github.com/arghyabandyopadhyay/arghyabandyopadhyay/blob/main/assets/Resume%202022.pdf">Here</a>.</li>
   </span>
 </div>
 
