@@ -16,7 +16,7 @@
 
 ## Hi there
 <div>
-  <p>Been a Software engineer at NatWest Group for 11 Months and a Full Stack Developer with 2
+  <p>Been a Software engineer at NatWest Group for 1 Year 2 Months and a Full Stack Developer with 2
 years' of professional experience in terms of freelancing and an extensive range of skills
 including Java and Flutter. I have been writing codes using Java since when I was in class 9 and
 have a very thorough hold on the language. I also work on open source projects and believe
